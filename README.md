@@ -12,7 +12,7 @@ How to run the project/s:
 4. Open your web browser and navigate the below URL
 
     for Synchronizer Token Pattern project: 
-    https://localhost/Web-Application-Security/Synchronizer%20%Token%20%Pattern%20%Pattern/ 
+    https://localhost/Web-Application-Security/Synchronizer%20%Token%20%Pattern/ 
 
     for Double Submit Cookie Pattern project: 
     https://localhost/Web-Application-Security/Double%20%Submit%20%Cookie%20%Pattern/ 
